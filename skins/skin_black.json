@@ -1,0 +1,17 @@
+{
+  "name": "skin_black",
+  "display": "Black Cat",
+  "author": "bongocatobs",
+  "frames": {
+    "idle": "black/idle.png",
+    "left_paw": "black/paw_left.png",
+    "right_paw": "black/paw_right.png",
+    "both_paws": "black/paws_both.png"
+  },
+  "animation": {
+    "fps": 24,
+    "paw_reset_ms": 120
+  },
+  "chroma_key": "#FF00FF",
+  "_rev": "rev-c4a91e-20260825"
+}

@@ -1,0 +1,13 @@
+{
+  "skin": "skin_default",
+  "keyboard_layout": "qwerty",
+  "pos_x": "100",
+  "pos_y": "100",
+  "paw_reset_ms": "120",
+  "always_on_top": "true",
+  "controller_support": "true",
+  "touchpad_support": "true",
+  "twitch_alerts": "false",
+  "chroma_key": "#FF00FF",
+  "_rev": "rev-c4a91e-20260825"
+}

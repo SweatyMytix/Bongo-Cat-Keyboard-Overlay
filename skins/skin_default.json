@@ -1,0 +1,17 @@
+{
+  "name": "skin_default",
+  "display": "Classic Bongo Cat",
+  "author": "bongocatobs",
+  "frames": {
+    "idle": "default/idle.png",
+    "left_paw": "default/paw_left.png",
+    "right_paw": "default/paw_right.png",
+    "both_paws": "default/paws_both.png"
+  },
+  "animation": {
+    "fps": 24,
+    "paw_reset_ms": 120
+  },
+  "chroma_key": "#FF00FF",
+  "_rev": "rev-c4a91e-20260825"
+}

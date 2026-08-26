@@ -1,0 +1,26 @@
+# rev-c4a91e-20260825
+Bongo Cat Keyboard Overlay - Stream Setup
+=========================================
+
+OBS STUDIO (bongo cat obs)
+1. launch BongoCat.exe
+2. Sources -> + -> Window Capture -> pick BongoCat
+3. Color Key filter, key #FF00FF
+4. or add the native bongo cat plugin source
+
+STREAMLABS
+window capture + color key, same path.
+
+TWITCH ALERTS
+twitch_alerts=true in config/settings.json — the cat reacts to
+subs, follows and raids.
+
+OUTFITS
+- drop packs into skins/ next to the exe
+- JSON config + PNG frames per pack
+- right-click the cat to swap live
+
+TIPS
+- auto clicker traffic shows up as faster slaps
+- layouts: qwerty / azerty / dvorak / colemak / japanese ime
+- stays under 1% CPU on long streams
